@@ -17,7 +17,6 @@ echo User Name: %USERNAME%
 echo Computer Name: %COMPUTERNAME%
 echo.
 
-
 echo System Information..
 echo ==================================
 wmic os get Caption,version,serialnumber,buildnumber,manufacturer,OSArchitecture
