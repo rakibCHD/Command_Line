@@ -73,4 +73,5 @@ Here are some common commands across different systems (many are Unix-based):
 - **Automation**: Create scripts to save time and reduce manual effort.
 - **Flexibility**: Customize and troubleshoot your system more effectively.
 - **Skill Enhancement**: Command line proficiency is a valuable skill for IT and development jobs.
+  
 
