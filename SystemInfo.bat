@@ -23,7 +23,6 @@ wmic os get Caption,version,serialnumber,buildnumber,manufacturer,OSArchitecture
 wmic path softwarelicensingservice get OA3xOriginalProductKey
 echo.
 
-
 echo Disk Info..Size in Byte..
 echo ==================================
 wmic logicaldisk get name,Size,FreeSpace
@@ -57,7 +56,6 @@ wmic path Win32_USBHub get deviceid, caption, description
 echo Parallel Ports...
 wmic path Win32_ParallelPort get deviceid, caption, description
 echo.
-
 
 echo Listing USB Devices..
 echo ==================================
