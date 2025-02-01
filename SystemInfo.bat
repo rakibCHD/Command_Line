@@ -21,7 +21,7 @@ echo System Information..
 echo ==================================
 wmic os get Caption,version,serialnumber,buildnumber,manufacturer,OSArchitecture
 wmic path softwarelicensingservice get OA3xOriginalProductKey
-echo.
+echo. 
 
 echo Disk Info..Size in Byte..
 echo ==================================
