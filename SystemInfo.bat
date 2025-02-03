@@ -36,7 +36,7 @@ echo.
 echo BIOS Information..
 echo ==================================
 wmic bios get name, version, manufacturer
-echo.
+echo. 
 
 echo Running Processes...
 tasklist
