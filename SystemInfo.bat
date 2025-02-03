@@ -10,7 +10,7 @@ echo Current Date and Time..
 echo ==================================
 echo %DATE% %TIME%
 echo.
-
+ 
 echo User Information..
 echo ==================================
 echo User Name: %USERNAME%
