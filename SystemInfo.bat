@@ -1,6 +1,6 @@
 @echo off
 title Enhanced System Info Viewer
-cls
+cls 
 
 echo Enhanced System Information Viewer
 echo ==================================
